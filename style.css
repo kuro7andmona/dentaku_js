@@ -50,3 +50,12 @@ input {
     .operator {
       background-color: #87cefa;
     }
+
+ .equal {
+      background-color: #b6b6b6;
+    }
+
+    /* カーソルを上に乗せた時に色を濃くする */
+    input:hover {
+      background: #747373b9;
+    }
